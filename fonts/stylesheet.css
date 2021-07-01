@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Saritha';
+    src: url('Saritha.ttf');
+    font-weight: bold!important;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-Regular.ttf');
+    font-style: normal;
+}
